@@ -1,0 +1,29 @@
+{
+
+"server":"0.0.0.0",
+
+"port_password":{
+
+     "8005":"shado8005",
+
+     "8006":"shado8006",
+
+     "8007":"shado8007",
+
+     "8009":"shado8009",
+
+     "8010":"markyingshow",
+
+     "8008":"shado8008"
+
+     },
+
+"timeout":200,
+
+"method":"rc4-md5",
+
+"fast_open":false,
+
+"workers":1
+
+}
