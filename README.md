@@ -14,4 +14,5 @@
 这是在root用户时使用的命令，当前用户如果不具有root权限，加上sudo
 
 pip install virtualenv
+
 virtualenv pythonShadowVM3
